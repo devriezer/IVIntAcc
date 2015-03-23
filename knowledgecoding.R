@@ -61,5 +61,3 @@ x$age2 <- x$age^2
 ## (Current) union member recode
 x$union_mem <- 0
 x$union_mem[x$union=='Yes, I am currently a member of a labor union'] = 1
-
-## This is just to test how commits work from the browser
